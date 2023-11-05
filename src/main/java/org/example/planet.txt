@@ -1,3 +1,6 @@
 Mars
 Jupiter
+Saturn
 Neptun
+Mercury
+Venus
